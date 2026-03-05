@@ -238,7 +238,7 @@ html
             box-shadow: 0 4px 0 #1d5b9e;
         }
 
-        /* hilltop laundromat quote / always open reminder */
+        /* Kibera safi laundromat quote / always open reminder */
         .hilltop-footer {
             background: #1e3b2f;
             color: #f5eac1;
@@ -311,7 +311,7 @@ html
                 <i class="fab fa-coca-cola" style="color: #f33;"></i>
             </div>
             <!-- explicit "NO Coca‑Cola" from the photo -->
-            <div class="coke-no">🚫 COCA‑COLA</div>
+            <div class="smoking-no">🚫 smoking</div>
         </div>
 
         <!-- Business identity: Kibera Safi Laundromat -->
@@ -336,7 +336,7 @@ html
                 <div class="phone-card">
                     <i class="fas fa-mobile-alt"></i>
                     <div class="number">0718 538079</div>
-                    <div class="label">emergency / call</div>
+                    <div class="label">to place your orders / call</div>
                 </div>
             </div>
 
@@ -359,13 +359,13 @@ html
         <!-- footer with the iconic “Always Open” & hilltop reference -->
         <div class="hilltop-footer">
             <span><i class="far fa-clock"></i> 24/7 ALWAYS OPEN</span>
-            <i class="fas fa-water"></i> Kibera Safi – hilltop clean <i class="fas fa-cloud-sun"></i>
+            <i class="fas fa-water"></i> Kibera Safi Laundromat <i class="fas fa-cloud-sun"></i>
         </div>
     </div>
 
     <!-- micro note: the photo from IMG_0985.jpeg is artistically included above (hilltop / no coke) -->
     <div style="margin-top: 1.2rem; font-size: 0.9rem; color: #456b5c; background: #ebf6ef; padding: 0.7rem 2rem; border-radius: 60px; max-width: 780px; text-align: center;">
-        <i class="fas fa-image"></i> “IMG_0985.jpeg” feature: HILLTOP LAUNDROMAT, Always Open, NO Coca-Cola — integrated with Kibera Safi style.
+        <i class="fas fa-image"></i> “IMG_0985.jpeg” feature: KIBERA SAFI LAUNDROMAT, Always Open, CLEANLINESS WITH DIGNITY — integrated with Kibera Safi style.
     </div>
 </body>
 </html>
